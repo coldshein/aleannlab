@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aleannlab/static/css/main.ec23f2bb.css",
+    "main.js": "/aleannlab/static/js/main.088462e7.js",
+    "index.html": "/aleannlab/index.html",
+    "main.ec23f2bb.css.map": "/aleannlab/static/css/main.ec23f2bb.css.map",
+    "main.088462e7.js.map": "/aleannlab/static/js/main.088462e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec23f2bb.css",
+    "static/js/main.088462e7.js"
+  ]
+}
